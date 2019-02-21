@@ -16,6 +16,6 @@
 
 + [liner_algebra](https://github.com/OldBonhart/ML-Books/tree/master/liner_algebra) - Книги по линейной алгебре
 
-+ [мathematical_analysis](https://github.com/OldBonhart/ML-Books/tree/master/%D0%BCathematical_analysis) - Книги по математическом анализе
++ [мathematical_analysis](https://github.com/OldBonhart/ML-Books/tree/master/%D0%BCathematical_analysis) - Книги по математическому анализу
 
 + [combinatorics_and_graphtheory](https://github.com/OldBonhart/ML-Books/tree/master/combinatorics_and_graphtheory) - Книги по дискретной математике(теория графов, и комбинаторика)
