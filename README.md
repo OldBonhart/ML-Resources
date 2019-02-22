@@ -26,8 +26,13 @@
 
 ### Курсы по машинному обучению
 
++ [ODS](https://github.com/Yorko/mlcourse.ai)
+
++ [DEEP LEARNING НА ПАЛЬЦАХ](https://dlcourse.ai/)
+
++ [DLSchool](https://github.com/DLSchool/dlschool)
+
 + [OTUS](https://cloud.mail.ru/public/9f2V/YU1aVHvay)
 
 + [Udemy](https://cloud.mail.ru/public/5UCs/HK6u8Zbs9)
 
-+ [ODS](https://github.com/Yorko/mlcourse.ai)
