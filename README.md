@@ -10,7 +10,7 @@
 
 + [cheat-sheets](https://github.com/OldBonhart/dl-books/tree/master/cheat-sheets) - Различные памятки так или иначе затрагивающие машинное обучение
 
-+ [ml_other_pl]() - Книги по машинному обучению с примерами кода на различных языках программирования
++ [ml_other_pl](https://github.com/OldBonhart/ML-Books/tree/master/ml_other_pl) - Книги по машинному обучению с примерами кода на различных языках программирования
 
 ---
 
