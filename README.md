@@ -21,3 +21,13 @@
 + [мathematical_analysis](https://github.com/OldBonhart/ML-Books/tree/master/%D0%BCathematical_analysis) - Книги по математическому анализу
 
 + [combinatorics_and_graphtheory](https://github.com/OldBonhart/ML-Books/tree/master/combinatorics_and_graphtheory) - Книги по дискретной математике(теория графов, и комбинаторика)
+
+---
+
+### Курсы по машинному обучению
+
++ [OTUS](https://cloud.mail.ru/public/9f2V/YU1aVHvay)
+
++ [Udemy](https://cloud.mail.ru/public/5UCs/HK6u8Zbs9)
+
++ [ODS](https://github.com/Yorko/mlcourse.ai)
