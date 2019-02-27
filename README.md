@@ -32,6 +32,8 @@
 
 + [DLSchool](https://github.com/DLSchool/dlschool)
 
++ [yandexdataschool](https://github.com/yandexdataschool/Practical_DL)
+
 + [OTUS](https://cloud.mail.ru/public/9f2V/YU1aVHvay)
 
 + [Udemy](https://cloud.mail.ru/public/5UCs/HK6u8Zbs9)
