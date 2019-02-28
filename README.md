@@ -32,6 +32,8 @@
 
 + [DLSchool](https://github.com/DLSchool/dlschool)
 
++ [ml-course-hse](https://github.com/esokolov/ml-course-hse)
+
 + [yandexdataschool](https://github.com/yandexdataschool/Practical_DL)
 
 + [OTUS](https://cloud.mail.ru/public/9f2V/YU1aVHvay)
