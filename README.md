@@ -28,6 +28,8 @@
 
 + [ODS](https://github.com/Yorko/mlcourse.ai)
 
++ [HSE](https://github.com/esokolov/ml-course-hse)
+
 + [DEEP LEARNING НА ПАЛЬЦАХ](https://dlcourse.ai/)
 
 + [DLSchool](https://github.com/DLSchool/dlschool)
